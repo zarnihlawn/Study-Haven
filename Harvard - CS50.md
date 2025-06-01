@@ -68,7 +68,7 @@ If you are a little bit fancy and want to get a verified certificate from edX, y
 2. Share your project in **showcase** section.
 3. Pay for the course.
     - watch their youtube videos with ads or buy youtube premium.
-    - get a verified certificate. more on Topic 6.
+    - get a verified certificate. more on Topic 5.
 4. Share this discord server with your friends.
 
 ## 7. Contact Me
