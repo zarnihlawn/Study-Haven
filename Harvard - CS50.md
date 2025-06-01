@@ -32,7 +32,7 @@ This is a recommended time frame if you are feeling rushed. You can take a week 
 
 ## 3. Lecture Details
 
-> Note : Make sure you have a score of at least 70% on each of this course's problem sets and labs as well as its final project. Only then you will be eligible for a free CS50 Certificate. Also, external direct help are 
+> Note : Make sure you have a score of at least 70% on each of this course's problem sets and labs as well as its final project. Only then you will be eligible for a free CS50 Certificate. Please do check out the [Academic Honesty](https://cs50.harvard.edu/x/honesty/)
 
 | Lecture        | Lecture Video | Problem Set |
 |----------------|---------------|-------------|
