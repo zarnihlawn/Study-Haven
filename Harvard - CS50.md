@@ -7,7 +7,7 @@
 
 1. Visit [Harvard: CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 2. Click on Learn More. Probably will lead you to this site. [Edx: HarvardX: CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
-3. Click the Enroll Button and Register an account.
+3. Click the "Earn Havard Certificate" Button or "Register" to create an account.
 4. After that, it will show you 2 path you can take. 
     - Earn a certificate (With a price tag) and
     - Access this course (Free)
